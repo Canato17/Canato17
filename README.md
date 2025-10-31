@@ -1,4 +1,4 @@
-# ![Pikachu feliz](imagem/pikachu.png)  Olá, eu sou a Isabella! 🌸
+# ![Pikachu feliz](imagem/pikachu.png)  Olá, eu sou a Isabella! 
 
 🎓 Estudante de **Sistemas para Internet**  
 💻 Apaixonada por **tecnologia, jogos e desenvolvimento web**  

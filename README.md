@@ -1,4 +1,4 @@
-![Pikachu feliz](imagem/pikachu.gif)
+![Pikachu feliz](imagem/pikachu.png)
 
 # 🌸 Olá, eu sou a Isabella!  
 

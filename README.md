@@ -1,4 +1,4 @@
-
+![Pikachu feliz](imagem/pikachu.gif)
 
 # 🌸 Olá, eu sou a Isabella!  
 
@@ -78,6 +78,6 @@ Tenho interesse em:
 
 ## 🩷 “Transformar ideias em código é o meu jeito de mudar o mundo.”  
 
-![Pikachu feliz](imagem/pikachu.gif)
+
 
 

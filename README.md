@@ -78,6 +78,6 @@ Tenho interesse em:
 
 ## 🩷 “Transformar ideias em código é o meu jeito de mudar o mundo.”  
 
-![Pikachu feliz](imagens/pikachu.gif)
+![Pikachu feliz](imagem/pikachu.gif)
 
 

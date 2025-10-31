@@ -67,13 +67,6 @@ Tenho interesse em:
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-![Isabella GitHub stats](https://github-readme-stats.vercel.app/api?username=canato17&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canato17&layout=compact&theme=radical)
-
----
-
 ## 🩷 “Transformar ideias em código é o meu jeito de mudar o mundo.”  
 
 

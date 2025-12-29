@@ -58,16 +58,6 @@ Tenho interesse em:
 💼 **LinkedIn:** [https://www.linkedin.com/in/isabella-canato](#)  
 
 
----
-
-## ✨ Curiosidades  
-🌻 Amo aprender e compartilhar conhecimento  
-🎨 Gosto de criar interfaces visuais limpas e intuitivas  
-🎧 Escuto música para programar melhor   
-
----
-
-## 🩷 “Transformar ideias em código é o meu jeito de mudar o mundo.”  
 
 
 
